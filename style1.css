@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding:0;
+
+}
+body {
+	
+	background-image: url(sam-moqadam-0_dtyvwWJhA-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container {
+	margin: 100px;
+	padding: 300px;
+}
+h1 {
+	text-align: center;
+	color: white;
+	font-family: helvetica;
+}
+.box-1  {
+	display: block;
+	margin: 40px;
+	padding: 10px 80px;
+	margin-left: 220px;
+}
+.box-2{
+	margin: 40px;
+	padding: 10px 80px;
+	margin-left: 270px;
+	
+	}
+
+.container-2 {
+	width: 1140;
+	display:flex;
+
+}
+.box-3 {
+	color: white;
+	font-family: helvetica;
+	padding: 10px;
+	text-decoration: none;
+}
+
