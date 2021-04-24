@@ -1,0 +1,185 @@
+* {
+	margin:0;
+	padding: 0;
+	text-transform: uppercase;
+}
+body {
+
+}
+.container {
+
+}
+.logo {
+
+}
+.logo img {
+	width:100px;
+}
+.banner {
+	background-image: url(../img/purple.jpg);
+}
+
+
+.ban { 
+      text-align: center;
+      padding-bottom: 200px;
+
+  }
+.ban h1 {
+     font-size: 150px;
+     color: white;
+}
+.ban p {
+	color:white;
+}
+.one {
+	margin: 0 auto;
+	display: block;
+	border:none;
+    background-color: #80808059!important;
+
+}
+ .ban span {
+	border-bottom: 2px solid white;
+    display: block;
+    width: 20%;
+    margin:10px auto;
+}
+.info {
+   padding-top: 50px;
+
+}
+.info h3 {
+	text-align: center;
+	color: indigo;
+	
+}
+.info p {
+	text-align: center;
+	color: indigo;
+	
+}
+.icon {
+	padding-top: 150px;
+}
+
+
+.icon-one {
+
+}
+.icon-one i {
+	background-color: indigo;
+	color: white;
+	padding:10px 20px;
+	margin-left: 150px;
+
+}
+.icon-one h4 {
+	text-align: center;
+	color: indigo;
+}
+.icon-one p{
+	text-align: center;
+	color: indigo;
+}
+.heading {
+   margin-top: 100px;
+  
+   width: 100%;
+}
+.heading h1 {
+	text-align: center;
+	color: indigo;
+}
+
+.heading p{
+	text-align: center;
+	color: indigo;
+
+}
+
+}
+.uno{
+ 
+}
+.heading h3 {
+	text-align: center;
+
+	}
+.uno {
+	margin-left: 60px;
+	margin-bottom: 10px;
+}
+
+.speech {
+     margin-top: 100px; 
+
+}
+.speech h3 {
+    text-align: center;
+    color: white;
+}
+.speech p {
+   text-transform: lowercase;
+   text-align: center;
+   color: white;
+}
+
+.holder {
+	margin:10px auto;
+	display: block;
+	padding: 20px;
+	width: 600px;
+	color: indigo;
+
+}
+.area {
+	margin:10px auto;
+	display: block;
+	padding: 20px;
+	width: 600px;
+	color: indigo;
+	height:200px;
+
+}
+
+
+.last {
+	background-color: indigo;
+}
+.parent{
+
+
+}
+.child-one {
+    padding-left:300px;
+    padding-top: 50px;
+}
+.child-two {
+ padding-right: 100px;
+ padding-top: 50px;
+}
+.child-three {
+ padding-left:800px;
+}
+.child-three  button{
+   background-color:white;
+   color:indigo;
+}
+.child-two p {
+	color: white !important;
+}
+.ft  {
+ background-color: silver;
+
+}
+.pad p {
+	padding-left: 250px;
+}
+.icons i {
+	padding-left: 20px;
+	color: #75b3f5;
+
+
+
+}
